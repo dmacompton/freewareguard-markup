@@ -1,0 +1,847 @@
+/* WINDOWS ICONS */
+
+.g_add-ons-and-plugs:before {
+	background: transparent url(../img/icons/gray_1.png) 0 0 no-repeat!important;
+}
+
+.g_antivirus:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -35px no-repeat!important;
+}
+
+.g_antispy:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -70px no-repeat!important;
+}
+
+.g_browsers:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -105px no-repeat!important;
+}
+
+.g_internet:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -105px no-repeat!important;
+}
+
+.g_cddvd-emulators:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -140px no-repeat!important;
+}
+
+.g_codecs:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -175px no-repeat!important;
+}
+
+.g_communication:before {
+	background: transparent url(../img/icons/gray_1.png) 0 -210px no-repeat!important;
+}
+
+.g_downloaders:before {
+	background: transparent url(../img/icons/gray_2.png) 0 0px no-repeat!important;
+}
+
+.g_firewalls:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -35px no-repeat!important;
+}
+
+.g_for-computer-games:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -70px no-repeat!important;
+}
+
+.g_multimedia:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -105px no-repeat!important;
+}
+
+.g_p2p-and-exchange:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -140px no-repeat!important;
+}
+
+.g_pdf-and-djvu-readers:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -175px no-repeat!important;
+}
+
+.g_remote-access-software:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -212px no-repeat!important;
+}
+
+.g_file-programs-and-utilities:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -255px no-repeat!important;
+}
+
+.g_graphic-editors:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -290px no-repeat!important;
+}
+
+.g_network:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -325px no-repeat!important;
+}
+
+.g_office-software-tools:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -360px no-repeat!important;
+}
+
+.g_password-manager:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -396px no-repeat!important;
+}
+
+.g_programming:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -430px no-repeat!important;
+}
+
+.g_development:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -430px no-repeat!important;
+}
+
+.g_system:before {
+	background: transparent url(../img/icons/gray_2.png) 0 -468px no-repeat!important;
+}
+
+.w_add-ons-and-plugs:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 0 no-repeat!important;
+}
+
+.w_antivirus:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -35px no-repeat!important;
+}
+
+.w_antispy:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -70px no-repeat!important;
+}
+
+.w_browsers:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -105px no-repeat!important;
+}
+
+.w_internet:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -105px no-repeat!important;
+}
+
+.w_cddvd-emulators:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -140px no-repeat!important;
+}
+
+.w_codecs:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -175px no-repeat!important;
+}
+
+.w_communication:hover:before {
+	background: transparent url(../img/icons/orange_1.png) 0 -210px no-repeat!important;
+}
+
+.w_downloaders:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 0px no-repeat!important;
+}
+
+.w_firewalls:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -35px no-repeat!important;
+}
+
+.w_for-computer-games:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -70px no-repeat!important;
+}
+
+.w_multimedia:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -105px no-repeat!important;
+}
+
+.w_p2p-and-exchange:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -140px no-repeat!important;
+}
+
+.w_pdf-and-djvu-readers:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -175px no-repeat!important;
+}
+
+.w_remote-access-software:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -212px no-repeat!important;
+}
+
+.w_file-programs-and-utilities:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -255px no-repeat!important;
+}
+
+.w_graphic-editors:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -290px no-repeat!important;
+}
+
+.w_network:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -325px no-repeat!important;
+}
+
+.w_office-software-tools:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -360px no-repeat!important;
+}
+
+.w_password-manager:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -396px no-repeat!important;
+}
+
+.w_programming:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -430px no-repeat!important;
+}
+
+.w_development:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -430px no-repeat!important;
+}
+
+.w_system:hover:before {
+	background: transparent url(../img/icons/orange_2.png) 0 -468px no-repeat!important;
+}
+
+.w_add-ons-and-plugs:before {
+	background: transparent url(../img/icons/white_1.png) 0 0 no-repeat!important;
+}
+
+.w_antivirus:before {
+	background: transparent url(../img/icons/white_1.png) 0 -35px no-repeat!important;
+}
+
+.w_antispy:before {
+	background: transparent url(../img/icons/white_1.png) 0 -70px no-repeat!important;
+}
+
+.w_browsers:before {
+	background: transparent url(../img/icons/white_1.png) 0 -105px no-repeat!important;
+}
+
+.w_internet:before {
+	background: transparent url(../img/icons/white_1.png) 0 -105px no-repeat!important;
+}
+
+.w_cddvd-emulators:before {
+	background: transparent url(../img/icons/white_1.png) 0 -140px no-repeat!important;
+}
+
+.w_codecs:before {
+	background: transparent url(../img/icons/white_1.png) 0 -175px no-repeat!important;
+}
+
+.w_communication:before {
+	background: transparent url(../img/icons/white_1.png) 0 -210px no-repeat!important;
+}
+
+.w_downloaders:before {
+	background: transparent url(../img/icons/white_2.png) 0 0px no-repeat!important;
+}
+
+.w_firewalls:before {
+	background: transparent url(../img/icons/white_2.png) 0 -35px no-repeat!important;
+}
+
+.w_for-computer-games:before {
+	background: transparent url(../img/icons/white_2.png) 0 -70px no-repeat!important;
+}
+
+.w_multimedia:before {
+	background: transparent url(../img/icons/white_2.png) 0 -105px no-repeat!important;
+}
+
+.w_p2p-and-exchange:before {
+	background: transparent url(../img/icons/white_2.png) 0 -140px no-repeat!important;
+}
+
+.w_pdf-and-djvu-readers:before {
+	background: transparent url(../img/icons/white_2.png) 0 -175px no-repeat!important;
+}
+
+.w_remote-access-software:before {
+	background: transparent url(../img/icons/white_2.png) 0 -212px no-repeat!important;
+}
+
+.w_file-programs-and-utilities:before {
+	background: transparent url(../img/icons/white_2.png) 0 -255px no-repeat!important;
+}
+
+.w_graphic-editors:before {
+	background: transparent url(../img/icons/white_2.png) 0 -290px no-repeat!important;
+}
+
+.w_network:before {
+	background: transparent url(../img/icons/white_2.png) 0 -325px no-repeat!important;
+}
+
+.w_office-software-tools:before {
+	background: transparent url(../img/icons/white_2.png) 0 -360px no-repeat!important;
+}
+
+.w_password-manager:before {
+	background: transparent url(../img/icons/white_2.png) 0 -396px no-repeat!important;
+}
+
+.w_programming:before {
+	background: transparent url(../img/icons/white_2.png) 0 -430px no-repeat!important;
+}
+
+.w_development:before {
+	background: transparent url(../img/icons/white_2.png) 0 -430px no-repeat!important;
+}
+
+.w_system:before {
+	background: transparent url(../img/icons/white_2.png) 0 -468px no-repeat!important;
+}
+
+/* IOS ICONS */
+
+.g_books:before {
+	background: transparent url(../img/icons/gray_3.png) 0 0px no-repeat!important;
+}
+
+.g_business:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -35px no-repeat!important;
+}
+
+.g_catalogs:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -70px no-repeat!important;
+}
+
+.g_education:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -108px no-repeat!important;
+}
+
+.g_entertainment:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -146px no-repeat!important;
+}
+
+.g_finance:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -178px no-repeat!important;
+}
+
+.g_food-drink:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -216px no-repeat!important;
+}
+
+.g_health-fitness:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -250px no-repeat!important;
+}
+
+.g_lifestyle:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -285px no-repeat!important;
+}
+
+.g_medical:before {
+	background: transparent url(../img/icons/gray_3.png) 0 -322px no-repeat!important;
+}
+
+.g_music:before {
+	background: transparent url(../img/icons/gray_4.png) 0 0 no-repeat!important;
+}
+
+.g_navigation:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -35px no-repeat!important;
+}
+
+.g_news:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -70px no-repeat!important;
+}
+
+.g_photo-video:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -105px no-repeat!important;
+}
+
+.g_productivity:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -143px no-repeat!important;
+}
+
+.g_reference:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -175px no-repeat!important;
+}
+
+.g_social-networking:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -213px no-repeat!important;
+}
+
+.g_sports:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -248px no-repeat!important;
+}
+
+.g_travel:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -283px no-repeat!important;
+}
+
+.g_utilities:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -320px no-repeat!important;
+}
+
+.g_weather:before {
+	background: transparent url(../img/icons/gray_4.png) 0 -355px no-repeat!important;
+}
+
+.w_books:before {
+	background: transparent url(../img/icons/white_3.png) 0 0px no-repeat!important;
+}
+
+.w_business:before {
+	background: transparent url(../img/icons/white_3.png) 0 -35px no-repeat!important;
+}
+
+.w_catalogs:before {
+	background: transparent url(../img/icons/white_3.png) 0 -70px no-repeat!important;
+}
+
+.w_education:before {
+	background: transparent url(../img/icons/white_3.png) 0 -108px no-repeat!important;
+}
+
+.w_entertainment:before {
+	background: transparent url(../img/icons/white_3.png) 0 -146px no-repeat!important;
+}
+
+.w_finance:before {
+	background: transparent url(../img/icons/white_3.png) 0 -178px no-repeat!important;
+}
+
+.w_food-drink:before {
+	background: transparent url(../img/icons/white_3.png) 0 -216px no-repeat!important;
+}
+
+.w_health-fitness:before {
+	background: transparent url(../img/icons/white_3.png) 0 -250px no-repeat!important;
+}
+
+.w_lifestyle:before {
+	background: transparent url(../img/icons/white_3.png) 0 -285px no-repeat!important;
+}
+
+.w_medical:before {
+	background: transparent url(../img/icons/white_3.png) 0 -322px no-repeat!important;
+}
+
+.w_music:before {
+	background: transparent url(../img/icons/white_4.png) 0 0 no-repeat!important;
+}
+
+.w_navigation:before {
+	background: transparent url(../img/icons/white_4.png) 0 -35px no-repeat!important;
+}
+
+.w_news:before {
+	background: transparent url(../img/icons/white_4.png) 0 -70px no-repeat!important;
+}
+
+.w_photo-video:before {
+	background: transparent url(../img/icons/white_4.png) 0 -105px no-repeat!important;
+}
+
+.w_productivity:before {
+	background: transparent url(../img/icons/white_4.png) 0 -143px no-repeat!important;
+}
+
+.w_reference:before {
+	background: transparent url(../img/icons/white_4.png) 0 -175px no-repeat!important;
+}
+
+.w_social-networking:before {
+	background: transparent url(../img/icons/white_4.png) 0 -213px no-repeat!important;
+}
+
+.w_sports:before {
+	background: transparent url(../img/icons/white_4.png) 0 -248px no-repeat!important;
+}
+
+.w_travel:before {
+	background: transparent url(../img/icons/white_4.png) 0 -283px no-repeat!important;
+}
+
+.w_utilities:before {
+	background: transparent url(../img/icons/white_4.png) 0 -320px no-repeat!important;
+}
+
+.w_weather:before {
+	background: transparent url(../img/icons/white_4.png) 0 -355px no-repeat!important;
+}
+
+.w_books:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 0px no-repeat!important;
+}
+
+.w_business:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -35px no-repeat!important;
+}
+
+.w_catalogs:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -70px no-repeat!important;
+}
+
+.w_education:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -108px no-repeat!important;
+}
+
+.w_entertainment:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -146px no-repeat!important;
+}
+
+.w_finance:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -178px no-repeat!important;
+}
+
+.w_food-drink:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -216px no-repeat!important;
+}
+
+.w_health-fitness:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -250px no-repeat!important;
+}
+
+.w_lifestyle:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -285px no-repeat!important;
+}
+
+.w_medical:hover:before {
+	background: transparent url(../img/icons/orange_3.png) 0 -322px no-repeat!important;
+}
+
+.w_music:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 0 no-repeat!important;
+}
+
+.w_navigation:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -35px no-repeat!important;
+}
+
+.w_news:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -70px no-repeat!important;
+}
+
+.w_photo-video:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -105px no-repeat!important;
+}
+
+.w_productivity:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -143px no-repeat!important;
+}
+
+.w_reference:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -175px no-repeat!important;
+}
+
+.w_social-networking:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -213px no-repeat!important;
+}
+
+.w_sports:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -248px no-repeat!important;
+}
+
+.w_travel:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -283px no-repeat!important;
+}
+
+.w_utilities:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -320px no-repeat!important;
+}
+
+.w_weather:hover:before {
+	background: transparent url(../img/icons/orange_4.png) 0 -355px no-repeat!important;
+}
+
+/* ANDROID ICONS */
+
+.g_books-reference:before {
+	background: transparent url(../img/icons/gray_5.png) 0 0 no-repeat!important;
+}
+
+.g_comics:before {
+	background: transparent url(../img/icons/gray_5.png) 0 -70px no-repeat!important;
+}
+
+.g_games:before {
+	background: transparent url(../img/icons/gray_5.png) 0 -70px no-repeat!important;
+}
+
+.g_libraries-demo:before {
+	background: transparent url(../img/icons/gray_5.png) 0 -288px no-repeat!important;
+}
+
+.g_live-wallpaper:before {
+	background: transparent url(../img/icons/gray_5.png) 0 -360px no-repeat!important;
+}
+
+.g_media-video:before {
+	background: transparent url(../img/icons/gray_5.png) 0 -395px no-repeat!important;
+}
+
+.g_music-audio:before {
+	background: transparent url(../img/icons/gray_6.png) 0 0px no-repeat!important;
+}
+
+.g_news-magazines:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -35px no-repeat!important;
+}
+
+.g_personalization:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -70px no-repeat!important;
+}
+
+.g_personal:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -70px no-repeat!important;
+}
+
+.g_photography:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -105px no-repeat!important;
+}
+
+.g_photo-edition:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -105px no-repeat!important;
+}
+
+.g_shopping:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -180px no-repeat!important;
+}
+
+.g_social:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -215px no-repeat!important;
+}
+
+.g_tools:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -285px no-repeat!important;
+}
+
+.g_transportation:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -321px no-repeat!important;
+}
+
+.g_travel-local:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -358px no-repeat!important;
+}
+
+.g_widgets:before {
+	background: transparent url(../img/icons/gray_6.png) 0 -431px no-repeat!important;
+}
+
+.w_books-reference:before {
+	background: transparent url(../img/icons/white_5.png) 0 0 no-repeat!important;
+}
+
+.w_comics:before {
+	background: transparent url(../img/icons/white_5.png) 0 -70px no-repeat!important;
+}
+
+.w_games:before {
+	background: transparent url(../img/icons/white_5.png) 0 -70px no-repeat!important;
+}
+
+.w_libraries-demo:before {
+	background: transparent url(../img/icons/white_5.png) 0 -288px no-repeat!important;
+}
+
+.w_live-wallpaper:before {
+	background: transparent url(../img/icons/white_5.png) 0 -360px no-repeat!important;
+}
+
+.w_media-video:before {
+	background: transparent url(../img/icons/white_5.png) 0 -395px no-repeat!important;
+}
+
+.w_music-audio:before {
+	background: transparent url(../img/icons/white_6.png) 0 0px no-repeat!important;
+}
+
+.w_news-magazines:before {
+	background: transparent url(../img/icons/white_6.png) 0 -35px no-repeat!important;
+}
+
+.w_personalization:before {
+	background: transparent url(../img/icons/white_6.png) 0 -70px no-repeat!important;
+}
+
+.w_personal:before {
+	background: transparent url(../img/icons/white_6.png) 0 -70px no-repeat!important;
+}
+
+.w_photography:before {
+	background: transparent url(../img/icons/white_6.png) 0 -105px no-repeat!important;
+}
+
+.w_photo-edition:before {
+	background: transparent url(../img/icons/white_6.png) 0 -105px no-repeat!important;
+}
+
+.w_shopping:before {
+	background: transparent url(../img/icons/white_6.png) 0 -180px no-repeat!important;
+}
+
+.w_social:before {
+	background: transparent url(../img/icons/white_6.png) 0 -215px no-repeat!important;
+}
+
+.w_tools:before {
+	background: transparent url(../img/icons/white_6.png) 0 -285px no-repeat!important;
+}
+
+.w_transportation:before {
+	background: transparent url(../img/icons/white_6.png) 0 -321px no-repeat!important;
+}
+
+.w_travel-local:before {
+	background: transparent url(../img/icons/white_6.png) 0 -358px no-repeat!important;
+}
+
+.w_widgets:before {
+	background: transparent url(../img/icons/white_6.png) 0 -431px no-repeat!important;
+}
+
+.w_books-reference:hover:before {
+	background: transparent url(../img/icons/orange_5.png) 0 0 no-repeat!important;
+}
+
+.w_comics:hover:before {
+	background: transparent url(../img/icons/orange_5.png) 0 -70px no-repeat!important;
+}
+
+.w_games:hover:before {
+	background: transparent url(../img/icons/orange_5.png) 0 -70px no-repeat!important;
+}
+
+.w_libraries-demo:hover:before {
+	background: transparent url(../img/icons/orange_5.png) 0 -288px no-repeat!important;
+}
+
+.w_live-wallpaper:hover:before {
+	background: transparent url(../img/icons/orange_5.png) 0 -360px no-repeat!important;
+}
+
+.w_media-video:hover:before {
+	background: transparent url(../img/icons/orange_5.png) 0 -395px no-repeat!important;
+}
+
+.w_music-audio:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 0px no-repeat!important;
+}
+
+.w_news-magazines:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -35px no-repeat!important;
+}
+
+.w_personalization:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -70px no-repeat!important;
+}
+
+.w_personal:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -70px no-repeat!important;
+}
+
+.w_photography:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -105px no-repeat!important;
+}
+
+.w_photo-edition:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -105px no-repeat!important;
+}
+
+.w_shopping:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -180px no-repeat!important;
+}
+
+.w_social:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -215px no-repeat!important;
+}
+
+.w_tools:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -285px no-repeat!important;
+}
+
+.w_transportation:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -321px no-repeat!important;
+}
+
+.w_travel-local:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -358px no-repeat!important;
+}
+
+.w_widgets:hover:before {
+	background: transparent url(../img/icons/orange_6.png) 0 -431px no-repeat!important;
+}
+
+/* WEB ICONS */
+
+.g_bookmarks:before {
+	background: transparent url(../img/icons/gray_7.png) 0 0px no-repeat!important;
+}
+
+.g_general:before {
+	background: transparent url(../img/icons/gray_7.png) 0 -68px no-repeat!important;
+}
+
+.g_maps:before {
+	background: transparent url(../img/icons/gray_7.png) 0 -105px no-repeat!important;
+}
+
+.g_online-storage:before {
+	background: transparent url(../img/icons/gray_7.png) 0 -178px no-repeat!important;
+}
+
+.g_photo-design:before {
+	background: transparent url(../img/icons/gray_8.png) 0 0 no-repeat!important;
+}
+
+.g_translators:before {
+	background: transparent url(../img/icons/gray_8.png) 0 -80px no-repeat!important;
+}
+
+.g_url-shortening:before {
+	background: transparent url(../img/icons/gray_8.png) 0 -112px no-repeat!important;
+}
+
+.g_websites:before {
+	background: transparent url(../img/icons/gray_8.png) 0 -185px no-repeat!important;
+}
+
+.w_bookmarks:before {
+	background: transparent url(../img/icons/white_7.png) 0 0px no-repeat!important;
+}
+
+.w_general:before {
+	background: transparent url(../img/icons/white_7.png) 0 -68px no-repeat!important;
+}
+
+.w_maps:before {
+	background: transparent url(../img/icons/white_7.png) 0 -105px no-repeat!important;
+}
+
+.w_online-storage:before {
+	background: transparent url(../img/icons/white_7.png) 0 -178px no-repeat!important;
+}
+
+.w_photo-design:before {
+	background: transparent url(../img/icons/white_8.png) 0 0 no-repeat!important;
+}
+
+.w_translators:before {
+	background: transparent url(../img/icons/white_8.png) 0 -80px no-repeat!important;
+}
+
+.w_url-shortening:before {
+	background: transparent url(../img/icons/white_8.png) 0 -112px no-repeat!important;
+}
+
+.w_websites:before {
+	background: transparent url(../img/icons/white_8.png) 0 -185px no-repeat!important;
+}
+
+.w_bookmarks:hover:before {
+	background: transparent url(../img/icons/orange_7.png) 0 0px no-repeat!important;
+}
+
+.w_general:hover:before {
+	background: transparent url(../img/icons/orange_7.png) 0 -68px no-repeat!important;
+}
+
+.w_maps:hover:before {
+	background: transparent url(../img/icons/orange_7.png) 0 -105px no-repeat!important;
+}
+
+.w_online-storage:hover:before {
+	background: transparent url(../img/icons/orange_7.png) 0 -178px no-repeat!important;
+}
+
+.w_photo-design:hover:before {
+	background: transparent url(../img/icons/orange_8.png) 0 0 no-repeat!important;
+}
+
+.w_translators:hover:before {
+	background: transparent url(../img/icons/orange_8.png) 0 -80px no-repeat!important;
+}
+
+.w_url-shortening:hover:before {
+	background: transparent url(../img/icons/orange_8.png) 0 -112px no-repeat!important;
+}
+
+.w_websites:hover:before {
+	background: transparent url(../img/icons/orange_8.png) 0 -185px no-repeat!important;
+}

@@ -1,0 +1,30 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, img, em, strike, strong, s, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {background:transparent;border:0;font-size:100%;margin:0;padding:0;outline:0;vertical-align:baseline;}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section {display:block}
+
+header, section, footer, aside, nav, main, article, figure {
+	display: block;
+	width: 100%;
+}
+
+html {font-size:100.01%;overflow-y:scroll;}
+body {font:62.5% Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;line-height:1;text-align:left;background:#fff;}
+html, body {height:100%;width:100%;}
+
+ol, ul {list-style:none}
+img {border:none;-ms-interpolation-mode:bicubic;}
+
+a {background:transparent;font-size:100%;margin:0;padding:0;vertical-align:baseline;}
+a:focus {outline:thin dotted}
+a:hover, a:active {outline:0}
+
+table {border-collapse:collapse;border-spacing:0;}
+td, td img {vertical-align:top} 
+
+input, textarea, select, button {font-family:Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;font-size:100%;margin:0;vertical-align:baseline;}
+textarea {overflow:auto;vertical-align:top;}
+input[type="text"], input[type="password"], textarea {padding:0}
+input[type="checkbox"] {vertical-align:baseline}
+input[type="radio"] {vertical-align:text-bottom}
+button, label, input[type="button"], input[type="submit"], input[type="reset"] {cursor:pointer}
+input[type="search"] {-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}
+button::-moz-focus-inner, input::-moz-focus-inner {border:0;padding:0;}

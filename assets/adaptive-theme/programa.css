@@ -1,0 +1,494 @@
+.top-line {
+    box-shadow: 1px 1px 1px 10px green orange;
+    margin-bottom: 20px;
+}
+.download strong {
+    font-weight: bold;
+}
+.prog_bottom_2 {
+	text-align: center;
+	padding-top: 40px;
+}
+.down-block {
+    float: left;
+    line-height: 20px;
+    margin: 20px 0px;
+}
+.whats_new {
+    margin: 20px 0px;
+    line-height: 26px;
+    text-align: justify;
+}
+.characters {
+	margin: 0px 0px 0px 15px;
+}
+.text {
+	padding-right: 20px;
+}
+.product-card {
+    background: white;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.text-product {
+    line-height: 26px;
+    text-align: justify;
+}
+.text-product>h2 {
+    font-size: 19px;
+    margin-bottom: 5px;
+    margin-top: 8px;
+}
+.text-product>ul {
+    margin: 10px 30px;
+    list-style-type: square;
+}
+.text-product>p {
+    text-indent: 10px;
+}
+.breadcrumbs {
+    float: left;
+    padding-bottom: 20px;
+}
+.breadcrumbs a {
+    color: #759b22;
+}
+.ga {
+    float: right;
+    padding-bottom: 10px;
+}
+.programa_bottom_ablock {} .programa_bottom_area_left {
+    float: left;
+    width: 40%;
+}
+.programa_bottom_area_right {
+    float: right;
+    width: 60%;
+}
+.programa_top_block:last-child {
+    border-bottom: none;
+}
+.programa_recent_date>span,
+.programa_recent_comments>span {
+    vertical-align: top;
+    color: gray;
+    margin-left: 8px;
+}
+.programa_pricon {
+    width: 28px;
+}
+.programa_recent_date {
+    margin: 0px 20px;
+    float: left;
+    width: 120px;
+}
+.programa_article_title {
+    font-size: 15px;
+    font-weight: 600;
+    padding: 0px 20px;
+}
+.programa_recent_title {
+    text-align: center;
+    margin: -30px auto 0px auto;
+    background: white;
+    width: 140px;
+    height: 40px;
+    padding-top: 7px;
+    border-radius: 3px 3px 0px 0px;
+    font-size: 13px;
+}
+.programa_recent {
+    margin: 8px 16px 0px 0px;
+}
+.programa_list_anons {
+    background: url('http://s1.micp.ru/1x0r5.jpg');
+    width: auto;
+    height: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+.programa_first_anons {
+    background: url('http://s1.micp.ru/1x0r5.jpg');
+    width: auto;
+    height: 160px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.programa_first_hr {
+    background: #ffbf14;
+    height: 10px;
+    margin: 0px;
+}
+.programa_first_recent {
+    padding: 10px 0px;
+    background: white;
+}
+.programa_list_recent {
+    margin-top: 10px;
+    background: white;
+}
+.programa_top_title {
+    margin-left: 55px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.programa_top_icon>span {
+    font-size: 20px;
+    vertical-align: top;
+    margin-left: 5px;
+}
+.programa_top_icon {
+    display: inline-block;
+    margin: 0px;
+    width: 70px;
+}
+.programa_top_block {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    margin: 10px 25px;
+}
+.programa_top_icons {
+    display: inline-block;
+    margin: 0px;
+}
+.programa_top_number {
+    display: inline-block;
+    width: 50px;
+}
+.programa_top_number>span {
+    font-size: 32px;
+}
+.programa_top_products {
+    background: white;
+}
+.programa_band_top_left {
+    width: 50%;
+    height: 15px;
+    background: #ffbf14;
+    float: left;
+}
+.programa_rating_area {
+    /*margin-top: 20px;*/
+}
+.programa_rating_right {
+    height: 85px;
+    width: 180px;
+    background: url('http://openfile.freewareguard.com/application/views/platform/img/user_icn.png'), #ffedbc;
+    float: left;
+    padding: 10px 12px;
+    background-repeat: no-repeat;
+    background-position: top -10px right -15px;
+    background-size: 65px;
+}
+.programa_slot>div {
+    float: left;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.programa_slot>span {
+    float: left;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: Open Sans Condensed;
+    margin-top: 8px;
+}
+.programa_tabcom {
+    display: inline-block!important;
+    margin-right: 10px!important;
+    padding: 2px!important;
+    margin-top: 8px!important;
+}
+.programa_comnum {
+    display: inline-block!important;
+    background: #fbe19d;
+    padding: 5px;
+    border-radius: 30px;
+    width: 28px;
+    height: 28px;
+    font-size: 13px!important;
+    margin-top: 11px!important;
+}
+.programa_active {
+    background: url(http://openfile.freewareguard.com/application/views/platform/img/slot.png)!important;
+    height: 60px!important;
+    cursor: default!important;
+    background-position: bottom center!important;
+}
+.programa_tab_content {
+    display: none;
+}
+.text-description img {
+  width: auto!important;
+  max-height: 300px!important;
+}
+.programa_single_active {
+    display: block!important;
+}
+.programa_tab>span {
+    font-size: 15px;
+    margin-top: 14px;
+    display: block;
+}
+.programa_tab {
+    float: left;
+    width: 33%;
+    text-align: center;
+    background: #f3f5f9;
+    height: 50px;
+    cursor: pointer;
+}
+.programa_tabs_menu {
+    margin: 20px 0px;
+}
+.programa_rating_left {
+    height: 85px;
+    width: 180px;
+    background: url('http://openfile.freewareguard.com/application/views/platform/img/fg_icn.png'), #ffedbc;
+    background-repeat: no-repeat;
+    background-position: top -10px right -15px;
+    background-size: 57px;
+    float: left;
+    margin-right: 10px;
+    padding: 10px 12px;
+}
+.programa_active>.programa_comnum {
+    background: white;
+}
+.programa_download:active {
+    border-bottom: none;
+}
+.programa_visit:active {
+    border-bottom: none;
+}
+.programa_rating_stars {
+    float: left;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.programa_download_installer {
+    float: left;
+    height: 70px;
+    width: 227px;
+    margin-top: 17px;
+    margin-left: 40px;
+    border-bottom: 3px solid #289348;
+    cursor: pointer;
+}
+.programa_download {
+    height: 33px;
+    width: 196px;
+    border-bottom: 3px solid #289348;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.programa_visit {
+    height: 33px;
+    width: 194px;
+    border-bottom: 3px solid #289348;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.programa_download_installer .rightp {
+    width: 46px;
+    height: 70px;
+    float: left;
+    margin: 0px;
+    background: url('http://openfile.freewareguard.com/application/views/platform/img/prdown.png'), #289348;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.text-download {
+    width: 100%;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.programa_download_installer .leftp {
+    background: #3ca95c;
+    width: 121px;
+    height: 20px;
+    margin: 0px;
+    float: left;
+    padding: 25px 30px;
+    color: white;
+    font-size: 19px;
+}
+.programa_visit .rightp {
+    width: 34px;
+    height: 33px;
+    float: left;
+    background: #289348;
+    color: #76C38D;
+    font-size: 24px;
+    padding: 0px 5px 4px 7px;
+    vertical-align: top;
+}
+.programa_visit .leftp {
+    background: #3ca95c;
+    width: 160px;
+    height: 5px;
+    margin: 0px;
+    float: left;
+    padding: 9px 5px 21px 5px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.programa_download .rightp {
+    width: 36px;
+    height: 33px;
+    float: left;
+    margin: 0px;
+    background: url('/images/prdown.png'), #289348;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.programa_download .leftp {
+    background: #3ca95c;
+    width: 160px;
+    height: 5px;
+    margin: 0px;
+    float: left;
+    padding: 8px 5px 22px 5px;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.programa_rating_left>p,
+.programa_rating_right>p {
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.outset_image {
+	display: block; 
+	position: relative; 
+	height: 250px;
+}
+.right-text-ablock {
+    float: right;
+    text-align: center;
+}
+.programa_image_area {
+    width: 50%;
+    position: relative;
+    display: block;
+    margin: 25px 0px 0px 0px;
+    float: left;
+}
+.stars {
+    background: url(http://openfile.freewareguard.com/application/views/platform/img/stars.big.png) #ffedbc;
+}
+.main_image {
+    max-width: 350px;
+    height: 250px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+	top: 0;
+	bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.container_image {
+	width: auto;
+	height: 250px;	
+	position: absolute;
+	left: 0;
+	right: 0;
+	background-repeat: no-repeat!important;
+	margin: auto;
+}
+h2 {
+    font-size: 24px;
+    margin-top: 20px;
+}
+.programa_thumbs {
+}
+.programa_thumbs img {
+    max-width: 100%;
+    margin-right: 10px;
+	max-height: 250px;
+}
+.owl-item {
+	text-align: center;
+}
+.programa_thumbs .default>div {
+    float: left;
+}
+.soc {
+    vertical-align: top;
+    width: 0px;
+    margin-right: 100px;
+    float: left;
+}
+.programa_soc {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    /*margin-left: 18%;*/
+}
+.programa_ablock_header {
+    margin-top: 25px;
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+.programa_ablock_inset {
+    text-align: center;
+}
+.programa_band_top_right {
+    float: left;
+    height: 15px;
+    width: 50%;
+    background: #ffd259;
+}
+.platforma>.tabone {
+    background: white;
+    padding-top: 1px;
+}
+.programa_mini_logo {
+    vertical-align: top;
+    width: 40px;
+    float: left;
+    margin-right: 10px;
+}
+address>a,
+.programa_link {
+    margin: 8px 0px;
+    display: block;
+    font-size: 14px;
+    color: green;
+    font-style: normal;
+}
+.nextlink {
+    float: right;
+    text-decoration: none;
+    font-size: 15px;
+    color: #6D9652;
+    width: 50%;
+    text-align: right;
+}
+.prevlink {
+    float: left;
+    text-decoration: none;
+    font-size: 15px;
+    color: #6D9652;
+    width: 50%;
+}
+.blog-text {
+    padding-top: 0px!important;
+}
+.blog-head {
+    padding-bottom: 20px!important;
+}
+.blog-title {
+    font-size: 20px!important;
+}
+.programa_h1 {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 28px;
+    display: inline;
+    margin-top: 8px;
+}
