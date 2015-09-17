@@ -4165,6 +4165,9 @@ input.app-url {
     margin: 10px 0;
     width: 100.7%;
 }
+.form_second_block_input input {
+    width: 78.4%;
+}
 .form_add_your_app.col-lg-12 input {
     width: 42%;
     margin: 20px 0 0 0;
@@ -4764,4 +4767,41 @@ body.fb_hidden {
     position: absolute;
     left: 50%;
     z-index: 4
+}
+
+@media only screen and (max-width: 727px) and (min-width: 614px)
+    .half-side {
+        float: right;
+        width: 100%;
+    }
+@media only screen and (max-width: 767px) {
+    .btn-custome {
+        margin: 10px auto;
+        display: block;
+    }
+    .form_second_block_input {
+        padding: 0;
+    }
+    .form_add_your_app textarea, .form_add_your_app input {
+        width: 100%;
+    }
+    .form_second_block_input input,
+    .form_add_your_app.col-lg-12 input {
+        width: calc(100% - 35px);
+    }
+    .app-url {
+        margin: 12px 5% 0 5% !important;
+        width: 90% !important;
+    }
+}
+@media only screen and (max-width: 525px) {
+    .border-block {
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 484px) {
+    .border-block {
+        height: 225px;
+    }
 }
